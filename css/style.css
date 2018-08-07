@@ -1,1 +1,22 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: Honeydew;
+      font-size: 150%;
+    }
+    
+h1 {
+  color: DarkCyan;
+}
+
+.myClass {
+      background-color: gray;
+      color: blue
+    }
+
+h3 {
+  font-family: "ComicSansMS";
+}
+
+.example {
+  background-color: lavendar;
+}
